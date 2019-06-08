@@ -215,6 +215,9 @@ img {
   color: #212529;
   text-decoration: none;
 }
+.nav-color {
+  color: coral; 
+}
 .footer {
   width: 100%;
   border-top: 2px dashed #C0C0C0;
@@ -350,3 +353,12 @@ img {
   background: #FFFFFF;
   color: #17A2B8;
 }
+.home .content-pick .thatcher-class {
+  font-size: 3rem;
+  color: pink;
+}
+
+.display-none {
+  display: none;
+}
+
